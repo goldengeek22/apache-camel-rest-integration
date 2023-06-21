@@ -1,2 +1,2 @@
-# apache-camel-rest-integration
-Develping System Integration using REST with Apache Camel
+# Apache Camel - Restintegration
+Developing System Integration using REST with Apache Camel
